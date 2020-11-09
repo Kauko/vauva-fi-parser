@@ -1,36 +1,16 @@
 # babycrawl
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Simple program that can parse discussion topics from vauva.fi to a text. file
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar babycrawl-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+1. Edit babycrawl.core/start-page to point to the first page of the vauva.fi topic you're interested in
+1. Edit the name of the file in -main
+1. start the repl and run (-main)
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Teemu Kaukoranta
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
